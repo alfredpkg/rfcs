@@ -35,6 +35,6 @@ the RFC itself.
 
 ### Alfred core team
 
-The Alfred core team currently consists of @amilajack and @vikr01.
+The Alfred core team currently consists of [@amilajack](https://github.com/amilajack)
 
 [Alfred core team]: #who-is-core
